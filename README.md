@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+  <img src="https://lh3.googleusercontent.com/pw/ADCreHd7P3YWQd9mnYcgU50PMibdIMnGG3mSM-xr4pIXXvT9ttRp1-Sp2e71Mac9tUlhRZKeRjSW4YNgg-6QUVXXop-tIHE5eVPMkRTjCubuDMYcrGaJtcA=w2400" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yarzar-minwai-298606195/">
