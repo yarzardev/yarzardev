@@ -20,7 +20,7 @@
 I am a RoR Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Myanmar.
 - 🔭 I’m currently working on RoR
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me: yarzarminwai97@gmail.com
+- 📫 How to reach me: yz.minwai@gmail.com
 
 ---
 
