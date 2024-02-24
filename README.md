@@ -2,7 +2,7 @@
   <img src="https://lh3.googleusercontent.com/pw/ADCreHd7P3YWQd9mnYcgU50PMibdIMnGG3mSM-xr4pIXXvT9ttRp1-Sp2e71Mac9tUlhRZKeRjSW4YNgg-6QUVXXop-tIHE5eVPMkRTjCubuDMYcrGaJtcA=w2400" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yarzar-minwai-298606195/">
+  <a href="https://www.linkedin.com/in/yarzar-minwai/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCjTh_3Ac10chZJVT1dAl-qg">
